@@ -13,6 +13,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
+    "types": ["@ant-design/compatible"],
     "plugins": [
       {
         "name": "next"
